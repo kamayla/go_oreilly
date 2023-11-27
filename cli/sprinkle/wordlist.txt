@@ -1,0 +1,26 @@
+apple
+banana
+cat
+dog
+elephant
+fish
+grape
+horse
+ice cream
+jellyfish
+kangaroo
+lemon
+monkey
+nut
+orange
+penguin
+quail
+rabbit
+snake
+tiger
+umbrella
+violet
+whale
+xylophone
+yak
+zebra
